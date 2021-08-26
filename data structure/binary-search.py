@@ -1,5 +1,4 @@
-#perform binary search until low<=high coz when the element is not present in array , sometimes low becomes > high..tehn it should stop
-#returns position ,not the index
+
 #complexity : O(logn)
 
 def binarysearch(list2,key,low,high):
